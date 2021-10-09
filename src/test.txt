@@ -1,0 +1,44 @@
+// import droughtIcon from "@iconify/icons-mdi/dry" //make difference with brackets
+// import dustIcon from "@iconify/icons-mdi/particl"
+// import earthquakeIcon from "@iconify/icons-mdi/beats"
+
+// import volcanoIcon from "@iconify/icons-mdi/lava-lamp"
+// import snowflakeIcon from "@iconify/icons-mdi/snowflake-alert"
+// import stormIcon from "@iconify/icons-mdi/storm"
+// import waterIcon from "@iconify/icons-mdi/water-alert"
+// import seaIcon from "@iconify/icons-mdi/waves"
+// import temperatureIcon from "@iconify/icons-mdi/temperature-alert"
+
+// const marks = eventdata.map(ev => {
+    //     // if(ev.categories[0].id === 6){ //drought
+    //     //     mainIcon = droughtIcon;
+    //     // }
+    //     // if(ev.categories[0].id === 7){ //dust and haze
+    //     //     mainIcon = dustIcon;
+    //     // }
+    //     if(ev.categories[0].id === 8){ // wildfires
+    //         return fireIcon;
+    //     }
+    //     else if(ev.categories[0].id === 9){ // floods
+    //         return waterIcon;
+    //     }
+    //     else if(ev.categories[0].id === 10){ // severe storm
+    //         return stormIcon;
+    //     }
+    //     else if(ev.categories[0].id === 12){ // volcanoes
+    //         return volcanoIcon;
+    //     }
+    //     else if(ev.categories[0].id === 15){ // sea and lake
+    //         return seaIcon;
+    //     }
+    //     else if(ev.categories[0].id === 16){ // earthquakes
+    //         return earthquakeIcon;
+    //     }
+    //     else if(ev.categories[0].id === 17){ //snow
+    //         return snowflakeIcon;
+    //     }
+    //     else if(ev.categories[0].id === 18){ // temperature
+    //         return temperatureIcon;
+    //     }
+    //     return
+    // })
